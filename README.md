@@ -3,8 +3,8 @@
 Use Google Stackdriver Logging instead of a logging server for
 application-specific logging.
 
-Code for solution _Using Stackdriver as a logging server for Dedicated Game
-Servers_ 
+Code for solution [Using Stackdriver as a logging server for Dedicated Game
+Servers](https://cloud.google.com/solutions/stackdriver-logging-for-dgs) 
 
 ## Install
 ```sh
